@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Hofffont_VariableGX.ttf";
+  src: url('./webfont/Hofffont_VariableGX.ttf') format('truetype');
+  font-weight: 0 1000;
+}
+
+#patrick {
+  font-family: "Hofffont_VariableGX.ttf";
+  font-variation-settings: "wght" 500;
+}
